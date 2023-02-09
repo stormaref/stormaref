@@ -1,6 +1,5 @@
-### Hi there 👋
-<div>
-        <div style="float: left;">
+<div style="width: 100%;">
+        <div align="left" style="width: 50%;float: left;">
             <p>
                 If you enjoyed my codes you can buy me a coffee
             </p>
@@ -8,7 +7,7 @@
                     src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"
                     style="height: 60px !important;width: 217px !important;" />
         </div>
-        <div style="float: right;">
+        <div style="width: 50%;float: right;">
             <a href="https://github.com/stormaref">
                 <img height="180em"
                     src="https://github-readme-stats-eight-theta.vercel.app/api?username=stormaref&show_icons=true&include_all_commits=true&count_private=true" />
