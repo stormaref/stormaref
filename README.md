@@ -15,7 +15,10 @@ I created 2 dotnet packages that you can see in my pins 📌
 
 I love contributing to open source packages ❤️
 
+<p align="left">
 <a href="https://github.com/stormaref">
         <img height="180em"
             src="https://github-readme-stats-eight-theta.vercel.app/api?username=stormaref&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stormaref&layout=compact&langs_count=8&theme=dark"/>
+</p>
