@@ -12,6 +12,8 @@ style="height: 60px !important;width: 217px !important;" /></a>
 I'm Aref, mainly a dotnet developer who loves to learn a lot of new things 👨🏻‍💻
 
 I created 2 dotnet packages that you can see in my pins 📌
+* [KafkaStorm](https://github.com/stormaref/kafkastorm)
+* [Json2Excel](https://github.com/stormaref/Json2ExcelMiddleware)
 
 I love contributing to open source packages ❤️
 
