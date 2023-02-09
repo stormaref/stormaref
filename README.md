@@ -6,11 +6,11 @@
 </p>
         
 ## About me
-I'm Aref, mainly a dotnet developer who loves to learn a lot of new things
+I'm Aref, mainly a dotnet developer who loves to learn a lot of new things 👨🏻‍💻
 
-I created 2 dotnet packages that you can see in my pins
+I created 2 dotnet packages that you can see in my pins 📌
 
-I love contributing to open source packages
+I love contributing to open source packages ❤️
 
 <a href="https://github.com/stormaref">
         <img height="180em"
