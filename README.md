@@ -8,14 +8,26 @@ style="height: 60px !important;width: 217px !important;" /></a>
                 style="height: 60px !important;width: 217px !important;" />
 </p>
         
-## About me
-* I'm Aref, mainly a dotnet developer who loves to learn a lot of new things 👨🏻‍💻
+## 👨🏻‍💻 About me
 
-+ I created 2 dotnet packages that you can see in my pins 📌
+My name is Aref, and I'm a software developer based in Tehran, Iran. I have experience in .net, and I'm passionate about learning new skills and open-source community.
+
+
+I've created 2 dotnet packages that you can see in my pins 📌
     + [KafkaStorm](https://github.com/stormaref/kafkastorm)
     + [Json2Excel](https://github.com/stormaref/Json2ExcelMiddleware)
 
-* I love contributing to open source packages ❤️
+## 🔭 I’m currently working on:
+
+[Hamrin](https://github.com/ham-rin)
+
+## 🌱 I’m currently learning:
+
+* Flutter
+* Rust
+
+
+## 🌟 My Github Stats:
 
 <p align="left">
 <a href="https://github.com/stormaref">
@@ -24,3 +36,7 @@ style="height: 60px !important;width: 217px !important;" /></a>
 </a>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stormaref&layout=compact&langs_count=8&theme=dark"/>
 </p>
+
+
+
+Thanks for visiting my Github profile! Feel free to browse my repositories, and don't hesitate to reach out if you have any questions or want to collaborate on a project.
