@@ -18,14 +18,7 @@ I've created 3 dotnet packages that you can see in my pins 📌
     + [Json2Excel](https://github.com/stormaref/Json2ExcelMiddleware)
     + [RedisStorm](https://github.com/stormaref/redisstorm)
 
-## 🔭 I’m currently working on:
-
-[Hamrin](https://github.com/ham-rin)
-
-## 🌱 I’m currently learning:
-
-* Flutter
-* Rust
+## 🌱 Look at my farm:
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=stormaref&utm_content=farm">
 <img
