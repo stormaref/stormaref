@@ -27,7 +27,6 @@ I've created 3 dotnet packages that you can see in my pins 📌
 * Flutter
 * Rust
 
-## Here is my farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=stormaref&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/stormaref"
