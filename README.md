@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+Peace ✌️
+
 <p align="right">
 <a href="https://www.coffeebede.com/stormaref">
 <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" 
@@ -7,16 +10,29 @@ style="height: 60px !important;width: 217px !important;" /></a>
                 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"
                 style="height: 60px !important;width: 217px !important;" />
 </p>
-        
+
 ## 👨🏻‍💻 About me
 
-My name is Aref, and I'm a software developer based in Tehran, Iran. I have experience in .net, and I'm passionate about learning new skills and open-source community.
+I'm **Aref Azizian**, an **AI Platform Engineer** and **ML Researcher**.
 
+At [**System Group**](https://systemgroup.net), I build Go backend services and shape the internal AI platform behind [Rahkaran ERP](https://systemgroup.net) — supporting 40+ integrated business solutions used by 60,000+ organizations. Before that, I shipped procurement features on the next-generation Go ERP stack, ramping up quickly from .NET.
 
-I've created 3 dotnet packages that you can see in my pins 📌
-    + [KafkaStorm](https://github.com/stormaref/kafkastorm)
-    + [Json2Excel](https://github.com/stormaref/Json2ExcelMiddleware)
-    + [RedisStorm](https://github.com/stormaref/redisstorm)
+I work across **Go**, **.NET**, and **Python/PyTorch**, and contribute to open source.
+
+🎓 **M.Sc. Computer Science** — Amirkabir University of Technology (GPA 19.71/20, Top 1)  
+🎓 **B.Sc. Computer Science** — Amirkabir University of Technology  
+🔬 Exploring Ph.D. opportunities in machine learning  
+📄 Thesis: _Label Noise Detection and Correction via Ensemble of Siamese Networks_ (submitted to NeurIPS 2025)  
+🌐 Portfolio: [**stormaref.github.io**](https://stormaref.github.io)
+
+## 📌 Featured projects
+
+| Project                                                              | Description                                                                                                         |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [**KafkaStorm**](https://github.com/stormaref/KafkaStorm)            | A simple .NET client for Kafka built on Confluent.Kafka with a streamlined producer and consumer API                |
+| [**RedisStorm**](https://github.com/stormaref/RedisStorm)            | A wrapper for StackExchange.Redis that simplifies Redis Pub/Sub with reliable messaging and streamlined integration |
+| [**SchemeGenerator**](https://github.com/stormaref/SchemeGenerator)  | C# library that generates default values for a given type and serializes them to JSON                               |
+| [**Sub-Agent-MCP**](https://github.com/systemgroupnet/Sub-Agent-MCP) | MCP server for spawning sub-agents, enabling multi-agent workflows across AI tooling environments                   |
 
 ## 🌱 Look at my farm:
 
@@ -28,8 +44,7 @@ I've created 3 dotnet packages that you can see in my pins 📌
 />
 </a>
 
-
-## 🌟 My Github Stats:
+## 🌟 My GitHub stats:
 
 <p align="left">
 <a href="https://github.com/stormaref">
@@ -39,6 +54,4 @@ I've created 3 dotnet packages that you can see in my pins 📌
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stormaref&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-
-
-Thanks for visiting my Github profile! Feel free to browse my repositories, and don't hesitate to reach out if you have any questions or want to collaborate on a project.
+Thanks for visiting my GitHub profile! Feel free to browse my repositories, and don't hesitate to reach out if you have questions or want to collaborate on a project.
