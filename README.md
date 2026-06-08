@@ -34,6 +34,7 @@ I work across **Go**, **.NET**, and **Python/PyTorch**, and contribute to open s
 | [**SchemeGenerator**](https://github.com/stormaref/SchemeGenerator)  | C# library that generates default values for a given type and serializes them to JSON                               |
 | [**Sub-Agent-MCP**](https://github.com/systemgroupnet/Sub-Agent-MCP) | MCP server for spawning sub-agents, enabling multi-agent workflows across AI tooling environments                   |
 
+<!-- 
 ## 🌱 Look at my farm:
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=stormaref&utm_content=farm">
@@ -53,5 +54,6 @@ I work across **Go**, **.NET**, and **Python/PyTorch**, and contribute to open s
 </a>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stormaref&layout=compact&langs_count=8&theme=dark"/>
 </p>
+-->
 
 Thanks for visiting my GitHub profile! Feel free to browse my repositories, and don't hesitate to reach out if you have questions or want to collaborate on a project.
